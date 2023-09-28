@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(194, 245, 223);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form{
+    background-color: rgb(53, 54, 66); 
+    text-align: center; 
+    margin-top: 120px; 
+    margin-left: 500px; 
+    margin-right: 500px;
+    height: 485px;
+    border-radius: 5px;
+}
+.titulo{
+    padding-top: 20px;
+    color: rgb(254, 254, 254);
+    font-size: 28px;
+    font-weight: bold;
+}
+.usuario, .email, .password, .enlaceForgot{
+    padding: 40px;
+}
+.enlace{
+    padding-bottom: 20px;
+}
+.new{
+    padding-top: 40px;
+}
+#user, #password, #verification, #newPassword{
+    width: 400px;
+    height: 37px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+
+}
+a{
+    color: azure;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+a:hover{
+    font-size: 16px;
+}
+
+button {
+    padding: 20px 50px;
+    background-color: #366aed;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #305ac7;
+  }
+  
+  button:active {
+    background-color: #294eab;
+  }
+
+  #signUp{
+    border:solid;
+    border-color: rgb(255, 196, 0);
+  }
+#createCount{
+    background-color: rgb(53, 54, 66); 
+    text-align: center; 
+    margin-top: 120px; 
+    margin-left: 500px; 
+    margin-right: 500px;
+    height: 580px;
+    border-radius: 5px;
+}
+.return{
+    padding-bottom: 40px;
+}
+.name{
+    padding-top: 30px;
+}
